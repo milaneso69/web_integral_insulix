@@ -1,0 +1,4 @@
+Nombre: Alex Bolaños Sánchez
+Edad: 24 
+Fecha de nacimiento: 28 de enero del 2002
+Color favorito: Azul
